@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: GTA V Torrent Download
-slug: gta-v-torrent-download
+slug: /gta-v-torrent-download
 date: 2022-05-28 19:26
 description: Download GTA V Torrent Download Click button below
 featuredImage: https://compass-ssl.xbox.com/assets/a0/4f/a04f2744-74d9-4668-8263-e0261fbea869.jpg?n=GTA-V_GLP-Page-Hero-1084_1920x1080.jpg
